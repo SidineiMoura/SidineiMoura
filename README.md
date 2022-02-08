@@ -1,1 +1,1 @@
-Contador // Aprendendo Python e desenvolvimento Bck-end
+Estudando Python // Ciências de dados // Alura
