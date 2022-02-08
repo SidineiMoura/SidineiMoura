@@ -1,1 +1,1 @@
-Estudando Python // Ciências de dados // Alura
+Sidinei  De Moura
